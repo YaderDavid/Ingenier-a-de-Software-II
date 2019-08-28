@@ -1,0 +1,334 @@
+[2019-07-09 13:56:32] : 
+ -> Mensaje : Ocurrio un error al hacer un Put al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"dsaasds","Apellido_Empleado":"Rivera Moreira","Fecha_Nacimiento":"1997-11-10","Cedula":"001-101197-0013X","Fecha_Ingreso":"2019-06-30","Salario":"10000","Usuario":"","Contra":"","Correo":"riveramoreira04@gmail.com","ID_Cargo":"1","Imagen":"dummy","ID_Empleado":"241"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-09 13:58:10] : 
+ -> Mensaje : Ocurrio un error al hacer un Put al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"dsaasds","Apellido_Empleado":"Rivera Moreira","Fecha_Nacimiento":"1997-11-10","Cedula":"001-101197-0013X","Fecha_Ingreso":"2019-06-30","Salario":"10000","Usuario":"","Contra":"","Correo":"riveramoreira04@gmail.com","ID_Cargo":"1","Imagen":"dummy","ID_Empleado":"241"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-09 13:58:49] : 
+ -> Mensaje : Ocurrio un error al hacer un Put al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"dsaasds","Apellido_Empleado":"Rivera Moreira","Fecha_Nacimiento":"1997-11-10","Cedula":"001-101197-0013X","Fecha_Ingreso":"2019-06-30","Salario":"10000","Usuario":"","Contra":"","Correo":"riveramoreira04@gmail.com","ID_Cargo":"1","Imagen":"dummy","ID_Empleado":"241"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-09 15:14:46] : 
+ -> Mensaje : Ocurrio un error al hacer un Put al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"zxc","Apellido_Empleado":"asdas","Fecha_Nacimiento":"1997-11-10T06:00:00.000Z","Cedula":"001-101197-0013X","Fecha_Ingreso":"2019-07-09T06:00:00.000Z","Salario":"1000","Usuario":"","Contra":"","Correo":"riverall@hotmail.com","ID_Cargo":"1","Imagen":"dummy","ID_Empleado":"237"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-09 15:14:48] : 
+ -> Mensaje : Ocurrio un error al hacer un Put al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"zxc","Apellido_Empleado":"asdas","Fecha_Nacimiento":"1997-11-10T06:00:00.000Z","Cedula":"001-101197-0013X","Fecha_Ingreso":"2019-07-09T06:00:00.000Z","Salario":"1000","Usuario":"","Contra":"","Correo":"riverall@hotmail.com","ID_Cargo":"1","Imagen":"dummy","ID_Empleado":"237"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-09 15:16:52] : 
+ -> Mensaje : Ocurrio un error al hacer un Put al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"zxc","Apellido_Empleado":"asdas","Fecha_Nacimiento":"1997-11-10T06:00:00.000Z","Cedula":"001-101197-0013X","Fecha_Ingreso":"2019-07-09T06:00:00.000Z","Salario":"1000","Usuario":"","Contra":"","Correo":"riverall@hotmail.com","ID_Cargo":"1","Imagen":"dummy","ID_Empleado":"237"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-09 15:17:27] : 
+ -> Mensaje : Ocurrio un error al hacer un Put al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"<zx<zx","Apellido_Empleado":"asdas","Fecha_Nacimiento":"1997-11-10T06:00:00.000Z","Cedula":"001-101197-0013X","Fecha_Ingreso":"2019-07-09T06:00:00.000Z","Salario":"1000","Usuario":"","Contra":"","Correo":"riverall@hotmail.com","ID_Cargo":"1","Imagen":"dummy","ID_Empleado":"237"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-09 15:27:18] : 
+ -> Mensaje : Ocurrio un error al hacer un Put al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"<zx<zx","Apellido_Empleado":"asdas","Fecha_Nacimiento":"1997-11-10T06:00:00.000Z","Cedula":"001-101197-0013X","Fecha_Ingreso":"2019-07-09T06:00:00.000Z","Salario":"1000","Usuario":"","Contra":"","Correo":"riverall@hotmail.com","ID_Cargo":"1","Imagen":"dummy","ID_Empleado":"237"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-09 15:27:20] : 
+ -> Mensaje : Ocurrio un error al hacer un Put al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"<zx<zx","Apellido_Empleado":"asdas","Fecha_Nacimiento":"1997-11-10T06:00:00.000Z","Cedula":"001-101197-0013X","Fecha_Ingreso":"2019-07-09T06:00:00.000Z","Salario":"1000","Usuario":"","Contra":"","Correo":"riverall@hotmail.com","ID_Cargo":"1","Imagen":"dummy","ID_Empleado":"237"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-09 15:29:10] : 
+ -> Mensaje : Ocurrio un error al hacer un Put al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"<zx<zx","Apellido_Empleado":"asdas","Fecha_Nacimiento":"1997-11-10T06:00:00.000Z","Cedula":"001-101197-0013X","Fecha_Ingreso":"2019-07-09T06:00:00.000Z","Salario":"1000","Usuario":"","Contra":"","Correo":"riverall@hotmail.com","ID_Cargo":"1","Imagen":"dummy","ID_Empleado":"237"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-09 21:10:41] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"sda","Apellido_Empleado":"sd","Fecha_Nacimiento":"10/11/1997","Cedula":"ddsd","Fecha_Ingreso":"10/11/1997","Salario":"dsad","Usuario":"dsd","Contra":"$2b$05$ul0X20qEnuPw84c2a/Twh.SLKxJkumsP1TKn/MoDMrtIe6ZUyOmCK","Correo":"dsd","ID_Cargo":"1","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-06502: PL/SQL: error : error de conversión de carácter a número numérico o de valor
+ORA-06512: en línea 1
+
+[2019-07-09 21:10:47] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"sda","Apellido_Empleado":"sd","Fecha_Nacimiento":"10/11/1997","Cedula":"ddsd","Fecha_Ingreso":"10/11/1997","Salario":"dsad","Usuario":"dsd","Contra":"$2b$05$gDMEUIG9o8/HO2dybQJ/MuQGmHWzFyPtUVZpHXWr2WlyEEshbm7gm","Correo":"dsd","ID_Cargo":"1","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-06502: PL/SQL: error : error de conversión de carácter a número numérico o de valor
+ORA-06512: en línea 1
+
+[2019-07-16 00:18:17] : 
+ -> Mensaje : Ocurrio un error al hacer un Put al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Oscar Danilo","Apellido_Empleado":"Rivera Moreira","Fecha_Nacimiento":"1997-11-10T06:00:00.000Z","Cedula":"001-101197-0013X","Fecha_Ingreso":"2019-06-30T06:00:00.000Z","Salario":"10000","Usuario":"","Contra":"","Correo":"riveramoreira04@gmail.com","ID_Cargo":"3","Imagen":"dummy","ID_Empleado":"235"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-16 01:02:23] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Cristopher Sanchez","Apellido_Empleado":"Mendoza Acuña","Fecha_Nacimiento":"1994-03-03","Cedula":"001-030394-4893X","Fecha_Ingreso":"2019-07-16","Salario":"10000","Usuario":"sanchez","Contra":"$2b$05$VjQVTV5pJ2JOtb1rbnZXyOtyRZZrX5aqJYa0/jyFhHs0/05LZafrW","Correo":"cristophersanchez@hotmail.com","ID_Cargo":"1","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-16 01:02:25] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Cristopher Sanchez","Apellido_Empleado":"Mendoza Acuña","Fecha_Nacimiento":"1994-03-03","Cedula":"001-030394-4893X","Fecha_Ingreso":"2019-07-16","Salario":"10000","Usuario":"sanchez","Contra":"$2b$05$i2MaFeKwlzAuLbCZiklyte6XJvlGE9oHQsB3IEdU7PtGQIgKLXpaO","Correo":"cristophersanchez@hotmail.com","ID_Cargo":"1","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-16 01:02:46] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Cristopher Sanchez","Apellido_Empleado":"Mendoza Acuña","Fecha_Nacimiento":"1994-03-03","Cedula":"001-030394-4893X","Fecha_Ingreso":"2019-07-16","Salario":"10000","Usuario":"sanchez","Contra":"$2b$05$qYj9Vuyw2NYtBRh/0uNuQOLSEc969ldOy8dryY40xoMmNYFrMLyh.","Correo":"cristophersanchez@hotmail.com","ID_Cargo":"1","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-16 01:02:48] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Cristopher Sanchez","Apellido_Empleado":"Mendoza Acuña","Fecha_Nacimiento":"1994-03-03","Cedula":"001-030394-4893X","Fecha_Ingreso":"2019-07-16","Salario":"10000","Usuario":"sanchez","Contra":"$2b$05$gn0MImstqKFoHg1ms8w9uefF9HDR3kLipwZEdL1QHLruHiY/QNrum","Correo":"cristophersanchez@hotmail.com","ID_Cargo":"1","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-16 01:03:28] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Cristopher Sanchez","Apellido_Empleado":"Mendoza Acuña","Fecha_Nacimiento":"1994-03-03","Cedula":"001-030394-4893X","Fecha_Ingreso":"2019-07-16","Salario":"10000","Usuario":"sanchez","Contra":"$2b$05$XHjxdjHd2/GlZGvtM0.0YumvCwwbUJQzOVA6irhPg83HUxjbqsbdi","Correo":"cristophersanchez@hotmail.com","ID_Cargo":"1","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-16 01:06:58] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Cristopher Sanchez","Apellido_Empleado":"Mendoza Acuña","Fecha_Nacimiento":"1994-03-03","Cedula":"001-030394-4893X","Fecha_Ingreso":"2019-07-16","Salario":"10000","Usuario":"sanchez","Contra":"$2b$05$W3Nh2aO5j/28yyNlJ7SSBeYa5Af5sA813.7T6RoSX2JLamxAyrwHK","Correo":"cristophersanchez@hotmail.com","ID_Cargo":"1","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-16 01:07:13] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Cristopher Sanchez","Apellido_Empleado":"Mendoza Acuña","Fecha_Nacimiento":"1994-03-03","Cedula":"001-030394-4893X","Fecha_Ingreso":"2019-07-16","Salario":"10000","Usuario":"sanchez","Contra":"$2b$05$FR5xI1UDZgTJpQvJcb2OcuggIOYUiwu74PoVvQVCk2q.DL2HdtO4u","Correo":"cristophersanchez@hotmail.com","ID_Cargo":"1","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-16 01:15:38] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Cristopher Sanchez","Apellido_Empleado":"Mendoza Acuña","Fecha_Nacimiento":"1994-03-03","Cedula":"001-030394-4893X","Fecha_Ingreso":"2019-07-16","Salario":"10000","Usuario":"sanchez","Contra":"$2b$05$PrqPu.5MZMdyIEoBzA/sDOarfW79mv7Ub9VMjMUHe2CyHFB6UVb6y","Correo":"cristophersanchez@hotmail.com","ID_Cargo":"1","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-16 01:15:40] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Cristopher Sanchez","Apellido_Empleado":"Mendoza Acuña","Fecha_Nacimiento":"1994-03-03","Cedula":"001-030394-4893X","Fecha_Ingreso":"2019-07-16","Salario":"10000","Usuario":"sanchez","Contra":"$2b$05$eEc5RLjfgVEz5pjktTTnK.yNF/kHiFJ52nFnxU/DW.HYuLz0tThri","Correo":"cristophersanchez@hotmail.com","ID_Cargo":"1","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-16 01:15:40] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Cristopher Sanchez","Apellido_Empleado":"Mendoza Acuña","Fecha_Nacimiento":"1994-03-03","Cedula":"001-030394-4893X","Fecha_Ingreso":"2019-07-16","Salario":"10000","Usuario":"sanchez","Contra":"$2b$05$WMRJTyXRF8DxW.imLsqxcefGviSUyM7PvIEcPlT0xsvSj3bE2IHa6","Correo":"cristophersanchez@hotmail.com","ID_Cargo":"1","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-16 01:15:40] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Cristopher Sanchez","Apellido_Empleado":"Mendoza Acuña","Fecha_Nacimiento":"1994-03-03","Cedula":"001-030394-4893X","Fecha_Ingreso":"2019-07-16","Salario":"10000","Usuario":"sanchez","Contra":"$2b$05$rSMOUwbhAI1wEzmiXoWSU.GxWL37irUoaWbX.S64bzYjPrBJVNKeO","Correo":"cristophersanchez@hotmail.com","ID_Cargo":"1","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-16 01:15:40] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Cristopher Sanchez","Apellido_Empleado":"Mendoza Acuña","Fecha_Nacimiento":"1994-03-03","Cedula":"001-030394-4893X","Fecha_Ingreso":"2019-07-16","Salario":"10000","Usuario":"sanchez","Contra":"$2b$05$pu0T2/Xv6nBbTZJjuWMcfee03xY0.e5eWhRoIaYHGiEeo4wlDFMWS","Correo":"cristophersanchez@hotmail.com","ID_Cargo":"1","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-16 01:16:42] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Cristopher Sanchez","Apellido_Empleado":"Mendoza Acuña","Fecha_Nacimiento":"1994-03-03","Cedula":"001-030394-4893X","Fecha_Ingreso":"2019-07-16","Salario":"10000","Usuario":"sanchez","Contra":"$2b$05$61mDuBZd2HynRtHBY0kMnO7R3wxUH93XHsb4wNneY7lXwXLICGU.m","Correo":"cristophersanchez@hotmail.com","ID_Cargo":"1","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-16 01:16:46] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Cristopher Sanchez","Apellido_Empleado":"Mendoza Acuña","Fecha_Nacimiento":"1994-03-03","Cedula":"001-030394-4893X","Fecha_Ingreso":"2019-07-16","Salario":"10000","Usuario":"sanchez","Contra":"$2b$05$ZJ1w3BJtcmqDs4jCecUeme5ARWzZc35N0QCS1Rj38MDbJgPwiHdNS","Correo":"cristophersanchez@hotmail.com","ID_Cargo":"1","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-16 01:18:25] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Cristopher Sanchez","Apellido_Empleado":"Mendoza Acuña","Fecha_Nacimiento":"1994-03-03","Cedula":"001-030394-4893X","Fecha_Ingreso":"2019-07-16","Salario":"10000","Usuario":"sanchez","Contra":"$2b$05$oYR9ipsWsNVheXVeNebPSOJYao.i/anRRrhks1NFQJqHbgOKA94US","Correo":"cristophersanchez@hotmail.com","ID_Cargo":"1","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-16 01:18:47] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"zxc","Apellido_Empleado":"zczxc","Fecha_Nacimiento":"2019-07-16","Cedula":"zxczxcz","Fecha_Ingreso":"2019-07-16","Salario":"232","Usuario":"sdvs","Contra":"$2b$05$2zPNiFQThroDyxRqKpx2HOFstGaHG3qgiGWdBgX99j2xg8CZ.AGjK","Correo":"3s","ID_Cargo":"1","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-16 01:19:15] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"zxc","Apellido_Empleado":"zczxc","Fecha_Nacimiento":"2019-07-16","Cedula":"zxczxcz","Fecha_Ingreso":"2019-07-16","Salario":"232","Usuario":"sdvs","Contra":"$2b$05$Rh4c3JV67IA3ksgE3bt4UOGV/kAYocLQ7mFz6ycohJcoh/5gFv8TC","Correo":"3s","ID_Cargo":"1","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-16 01:27:41] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"zxc","Apellido_Empleado":"zczxc","Fecha_Nacimiento":"1997-10-10","Cedula":"zxczxcz","Fecha_Ingreso":"10/10/1997","Salario":"232","Usuario":"sdvs","Contra":"$2b$05$T3SYryUEkK3S3Sda4bhqGuzlKhh6aGlXoJQ/4nk3q91EpgsmCYAhu","Correo":"3s","ID_Cargo":"1","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-01861: el literal no coincide con la cadena de formato
+ORA-06512: en línea 1
+
+[2019-07-16 01:36:07] : 
+ -> Mensaje : Ocurrio un error al hacer un Get al controlador Proveedor 
+ -> Parametros : {}
+ -> Excepcion : Error: ORA-01722: número no válido
+
+[2019-07-16 02:28:13] : 
+ -> Mensaje : Ocurrio un error al hacer un Get al controlador Proveedor 
+ -> Parametros : {}
+ -> Excepcion : Error: ORA-01722: número no válido
+
+[2019-07-16 02:29:22] : 
+ -> Mensaje : Ocurrio un error al hacer un Get al controlador Proveedor 
+ -> Parametros : {}
+ -> Excepcion : Error: ORA-01722: número no válido
+
+[2019-07-16 02:34:25] : 
+ -> Mensaje : Ocurrio un error al hacer un Get al controlador Proveedor 
+ -> Parametros : {}
+ -> Excepcion : Error: ORA-01722: número no válido
+
+[2019-07-16 02:44:15] : 
+ -> Mensaje : Ocurrio un error al hacer un Get al controlador Producto 
+ -> Parametros : {}
+ -> Excepcion : Error: ORA-00904: "ID_PRODUCTO": identificador no válido
+
+[2019-07-16 02:44:28] : 
+ -> Mensaje : Ocurrio un error al hacer un Get al controlador Producto 
+ -> Parametros : {}
+ -> Excepcion : Error: ORA-00904: "ID_PRODUCTO": identificador no válido
+
+[2019-07-16 02:45:40] : 
+ -> Mensaje : Ocurrio un error al hacer un Get al controlador Producto 
+ -> Parametros : {}
+ -> Excepcion : Error: ORA-00904: "ID_PRODUCTO": identificador no válido
+
+[2019-07-16 02:45:56] : 
+ -> Mensaje : Ocurrio un error al hacer un Get al controlador Producto 
+ -> Parametros : {}
+ -> Excepcion : Error: ORA-00904: "ID_PRODUCTO": identificador no válido
+
+[2019-07-16 03:19:03] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Producto 
+ -> Parametros : {"ID_Envoltorio":"1","Precio":"12","Estanteria":"1","Stock":"32","Stock_Minimo":"32","Stock_Maximo":"32","Gaveta":"1","Nombre_Producto":"saasd","Descripcion_Producto":"scsac","ID_Categoria":"1","ID_Moneda":"1","ID_UnidadMedida":"1","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-00001: restricción única (SYSTEM.PK_IN_PRODUCTO) violada
+ORA-06512: en "SYSTEM.IN_PRODUCTO_CREATE", línea 19
+ORA-06512: en línea 1
+
+[2019-07-16 04:06:48] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Categoria 
+ -> Parametros : {"Nombre_Categoria":"sdasd","Descripcion_Categoria":"asdsad"}
+ -> Excepcion : Error: ORA-00001: restricción única (SYSTEM.PK_IN_CATEGORIA) violada
+ORA-06512: en "SYSTEM.IN_CATEGORIA_CREATE", línea 8
+ORA-06512: en línea 1
+
+[2019-07-16 04:07:05] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Categoria 
+ -> Parametros : {"Nombre_Categoria":"sdasd","Descripcion_Categoria":"asdsad"}
+ -> Excepcion : Error: ORA-00001: restricción única (SYSTEM.PK_IN_CATEGORIA) violada
+ORA-06512: en "SYSTEM.IN_CATEGORIA_CREATE", línea 8
+ORA-06512: en línea 1
+
+[2019-07-16 04:07:13] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Categoria 
+ -> Parametros : {"Nombre_Categoria":"sdasd","Descripcion_Categoria":"asdsad"}
+ -> Excepcion : Error: ORA-00001: restricción única (SYSTEM.PK_IN_CATEGORIA) violada
+ORA-06512: en "SYSTEM.IN_CATEGORIA_CREATE", línea 8
+ORA-06512: en línea 1
+
+[2019-07-16 04:07:18] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Categoria 
+ -> Parametros : {"Nombre_Categoria":"sdasd","Descripcion_Categoria":"asdsad"}
+ -> Excepcion : Error: ORA-00001: restricción única (SYSTEM.PK_IN_CATEGORIA) violada
+ORA-06512: en "SYSTEM.IN_CATEGORIA_CREATE", línea 8
+ORA-06512: en línea 1
+
+[2019-08-05 17:47:55] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Prueba","Apellido_Empleado":"Empleado","Fecha_Nacimiento":"16/07/2019","Cedula":"001-0256-52","Fecha_Ingreso":"16/07/2019","Salario":"3000","Usuario":"a","Contra":"$2b$05$9hWeZ6Ngv5GE7QUrobjvy.da0yPOdArWEg2rgxbya4q2hjEFqrYuW","Correo":"nar@hotmail.com","ID_Cargo":"1","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-06502: PL/SQL: numeric or value error: character to number conversion error
+ORA-06512: at line 1
+
+[2019-08-05 17:48:03] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Prueba","Apellido_Empleado":"Empleado","Fecha_Nacimiento":"16/07/2019","Cedula":"001-0256-52","Fecha_Ingreso":"16/07/2019","Salario":"3000","Usuario":"a","Contra":"$2b$05$M9pKEpFS2pICnmTvOpwf0O11erNqUG0laXJLA3XHlwu9jeQSuI11O","Correo":"nar@hotmail.com","ID_Cargo":"2","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-06502: PL/SQL: numeric or value error: character to number conversion error
+ORA-06512: at line 1
+
+[2019-08-05 17:48:12] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Prueba","Apellido_Empleado":"Empleado","Fecha_Nacimiento":"16/07/2019","Cedula":"001-0256-52","Fecha_Ingreso":"16/07/2019","Salario":"3000","Usuario":"a","Contra":"$2b$05$r.j1cyc.7uTfUgxL96YmBeHtoSz2KrToxUwnjrubUSXNwQO.Wt3Mm","Correo":"nar@hotmail.com","ID_Cargo":"2","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-06502: PL/SQL: numeric or value error: character to number conversion error
+ORA-06512: at line 1
+
+[2019-08-05 17:48:17] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Prueba","Apellido_Empleado":"Empleado","Fecha_Nacimiento":"16/07/2019","Cedula":"12354","Fecha_Ingreso":"16/07/2019","Salario":"3000","Usuario":"a","Contra":"$2b$05$EC4AeAWe/znzPQC42yjZ9uVNk/VgZjvTVoftsoZSZgPcIY0VPgR3u","Correo":"nar@hotmail.com","ID_Cargo":"2","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-06502: PL/SQL: numeric or value error: character to number conversion error
+ORA-06512: at line 1
+
+[2019-08-05 17:48:26] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Prueba","Apellido_Empleado":"Empleado","Fecha_Nacimiento":"16/03/2019","Cedula":"12354","Fecha_Ingreso":"16/07/2019","Salario":"3000","Usuario":"a","Contra":"$2b$05$ICorMCS0D2QByZqbU4OD/enhyDaWALn4mkxA5eSFzuhlnRktdiyma","Correo":"nar@hotmail.com","ID_Cargo":"2","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-06502: PL/SQL: numeric or value error: character to number conversion error
+ORA-06512: at line 1
+
+[2019-08-05 17:48:32] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Prueba","Apellido_Empleado":"Empleado","Fecha_Nacimiento":"16/03/2019","Cedula":"12354","Fecha_Ingreso":"16/04/2019","Salario":"3000","Usuario":"a","Contra":"$2b$05$p4H64GHGr2l9buvuJkSa9u.Bi.zrYJ.iarxKNeHhGy.b38LMqJpsq","Correo":"nar@hotmail.com","ID_Cargo":"2","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-06502: PL/SQL: numeric or value error: character to number conversion error
+ORA-06512: at line 1
+
+[2019-08-05 17:48:37] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Prueba","Apellido_Empleado":"Empleado","Fecha_Nacimiento":"16/03/2019","Cedula":"12354","Fecha_Ingreso":"16/04/2019","Salario":"2996","Usuario":"a","Contra":"$2b$05$yEzY0jODvUHZQESn.PdLWu7YcHwt//nocJwHQwS3elqXag1Ezotrq","Correo":"nar@hotmail.com","ID_Cargo":"2","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-06502: PL/SQL: numeric or value error: character to number conversion error
+ORA-06512: at line 1
+
+[2019-08-05 17:48:43] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Prueba","Apellido_Empleado":"Empleado","Fecha_Nacimiento":"16/03/2019","Cedula":"12354","Fecha_Ingreso":"16/04/2019","Salario":"2996","Usuario":"a","Contra":"$2b$05$CsXIPtIS7kZEWQURxwdKmefUbRxcka5J6mgzPY34Jow8w4PfZdRIm","Correo":"nar@hotmail.com","ID_Cargo":"2","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-06502: PL/SQL: numeric or value error: character to number conversion error
+ORA-06512: at line 1
+
+[2019-08-05 17:48:49] : 
+ -> Mensaje : Ocurrio un error al hacer un Delete al controlador Proveedor 
+ -> Parametros : {"ID_Proveedor":"1001"}
+ -> Excepcion : Error: ORA-02292: integrity constraint (SYSTEM.FK_161) violated - child record found
+ORA-06512: at "SYSTEM.IN_PROVEEDOR_DELETE", line 7
+ORA-06512: at line 1
+
+[2019-08-05 17:49:10] : 
+ -> Mensaje : Ocurrio un error al hacer un Put al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Oscar Danilo","Apellido_Empleado":"Rivera Moreira","Fecha_Nacimiento":"10/11/1997","Cedula":"001-101197-0013X","Fecha_Ingreso":"30/06/2019","Salario":"10000","Usuario":"a","Contra":"123","Correo":"riveramoreira04@gmail.com","ID_Cargo":"1","Imagen":"dummy","ID_Empleado":"235"}
+ -> Excepcion : Error: ORA-01843: not a valid month
+ORA-06512: at line 1
+
+[2019-08-05 17:49:28] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Oscar Danilo","Apellido_Empleado":"Rivera Moreira","Fecha_Nacimiento":"16/07/2019","Cedula":"001-101197-0013X","Fecha_Ingreso":"16/07/2019","Salario":"10000","Usuario":"a","Contra":"$2b$05$hgeabUWHaVtNBekvjH4Z/O4m52PunRBvA5AqT.P10.ivXGRUq0wiG","Correo":"riveramoreira04@gmail.com","ID_Cargo":"1","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-06502: PL/SQL: numeric or value error: character to number conversion error
+ORA-06512: at line 1
+
+[2019-08-05 17:50:20] : 
+ -> Mensaje : Ocurrio un error al hacer un Post al controlador Empleado 
+ -> Parametros : {"Nombre_Empleado":"Oscar Danilo","Apellido_Empleado":"Rivera Moreira","Fecha_Nacimiento":"16/07/2019","Cedula":"001-101197-0013X","Fecha_Ingreso":"16/07/2019","Salario":"10000","Usuario":"a","Contra":"$2b$05$Qq5ncPj6NC3tNd6lsiKqdei.7l9PUDrmiDSCTROMeU800lfDEWbRS","Correo":"riveramoreira04@gmail.com","ID_Cargo":"1","Imagen":"dummy"}
+ -> Excepcion : Error: ORA-06502: PL/SQL: numeric or value error: character to number conversion error
+ORA-06512: at line 1
+

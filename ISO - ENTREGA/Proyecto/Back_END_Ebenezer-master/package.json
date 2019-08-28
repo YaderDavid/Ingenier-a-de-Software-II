@@ -1,0 +1,36 @@
+{
+    "name": "ws_ebenezer",
+    "version": "1.0.0",
+    "description": "Web server hecho en node js para la panaderia ebenezer",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "cross-env NODE_ENV=development nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/X3R0XP3R/Back_END_Ebenezer.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/X3R0XP3R/Back_END_Ebenezer/issues"
+    },
+    "homepage": "https://github.com/X3R0XP3R/Back_END_Ebenezer#readme",
+    "dependencies": {
+        "bcrypt": "^3.0.6",
+        "body-parser": "^1.19.0",
+        "dotenv": "^8.0.0",
+        "express": "^4.17.1",
+        "handlebars": "^4.1.2",
+        "jsonwebtoken": "^8.5.1",
+        "morgan": "^1.9.1",
+        "node-datetime": "^2.1.2",
+        "nodemailer": "^6.2.1",
+        "nodemailer-smtp-transport": "^2.7.4",
+        "oracledb": "^3.1.2"
+    },
+    "devDependencies": {
+        "nodemon": "^1.19.1"
+    }
+}
